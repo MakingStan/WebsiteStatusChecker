@@ -1,5 +1,9 @@
 # WebsiteStatusChecker
 
+extremely simple well documented website checker.
+
+You will not be seeing any malformed urls in your json file output. and the output will just be the website url and then the status code. that could be something like 404, or 200(200 is successful connection 404 is a server based error (anything up from 400)
+
 A java program that checks the response code of the website. 
 
 And outputs this data formatted to a .json file
